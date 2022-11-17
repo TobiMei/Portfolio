@@ -6,6 +6,6 @@ I used my own data collected by my smartwatch & mobile (I use the App Pillow for
 Please understand, that I'm not willing to share my whole activity data - That's why I decided to only uploaded a selected & already cleaned part of it. 
 
 I created to a Jupyter-Notebook to perform the analysis. 
-You can check it out by clicking the file "221020_sleep_analysis.ipynb".
+You can check it out by clicking the file "201020_sleep_analysis.ipynb".
 
 Have fun reading it! 
